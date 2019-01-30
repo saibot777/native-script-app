@@ -1,0 +1,4 @@
+C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\assets\app\bundle.js
+C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\assets\app\starter.js
+C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\assets\app\vendor.js

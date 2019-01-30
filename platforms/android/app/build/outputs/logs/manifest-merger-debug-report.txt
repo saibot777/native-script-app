@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\f1638247621867904187fda5a9fb1276\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2d2eb52b50a43ce814bc264e1cfce3d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1d9dd879476fa2bc1c12e8e1194ae72e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d87de5109f3026ac56709e7c38225803\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\e9f662d243ec3bba43e2dc82fdb21a15\AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\8bf192ae5b12b75984c050cc48954fce\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8ea2d0302a193d70ac2c4766809005b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\235c8a0e77453cf992bcc72528f297cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\82f8179562c092745193c695f86f1ce6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c32d1b0228110f8e9211bf8137c8a859\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3a088bce681454dba221d13a6dc1d350\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c18705d39cf1a6e4454e9e9d42215bee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8ab70d048c0ba2581efd56aa829af582\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4d2066c4f9db2f7c6b6c4d28bb9ba74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\79130179cb205d87479d9e98370ee3dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\66c13d438cccb37e122cbf0b429e3f6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e4fd1dde5aba0b3cf940bf1eb5952f62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\152744bb6c60701bdb31f26c0d6cbdac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9c3f86a0a5ecf775e8c6fada658bf3a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e89a3af851e93240c8e2ac29fe691e83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f4e8de03f31c67e233c5de5f93bfc2c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0b988605fb3953e2a0f58145cd9ce0c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b79473ad551005f62030ca35c57a3731\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5417ad2573f625ca46750ad3adb1fbe\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cdb9ac1be8f4ce91f0b5427f230263ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\da30094b4cb73b3b22611e4d44a7f486\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4a221a0add9dc65522aa7225d09a0cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\67abb6ec4f9d243d37662bf0440cfc97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1f6524874ea3880f778c72bc527b4226\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\673c932d550ac5890b1a36b294528747\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dff367c34e92705ec7e454845e8f35a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\117d77b78b0b4657e95555869ccb18d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4ee7a4f79bac7d4a53678d92165b72fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4ac02aaf2af56c0372a3e73a0e65b47c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\95bd597388f6da302da7769ba0368401\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:3:2-47
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\f1638247621867904187fda5a9fb1276\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\f1638247621867904187fda5a9fb1276\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2d2eb52b50a43ce814bc264e1cfce3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2d2eb52b50a43ce814bc264e1cfce3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1d9dd879476fa2bc1c12e8e1194ae72e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1d9dd879476fa2bc1c12e8e1194ae72e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d87de5109f3026ac56709e7c38225803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d87de5109f3026ac56709e7c38225803\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\e9f662d243ec3bba43e2dc82fdb21a15\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\nativescript-optimized-with-inspector.aar\e9f662d243ec3bba43e2dc82fdb21a15\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\8bf192ae5b12b75984c050cc48954fce\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\8bf192ae5b12b75984c050cc48954fce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8ea2d0302a193d70ac2c4766809005b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8ea2d0302a193d70ac2c4766809005b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\235c8a0e77453cf992bcc72528f297cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\235c8a0e77453cf992bcc72528f297cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\82f8179562c092745193c695f86f1ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\82f8179562c092745193c695f86f1ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c32d1b0228110f8e9211bf8137c8a859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c32d1b0228110f8e9211bf8137c8a859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3a088bce681454dba221d13a6dc1d350\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3a088bce681454dba221d13a6dc1d350\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c18705d39cf1a6e4454e9e9d42215bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\c18705d39cf1a6e4454e9e9d42215bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8ab70d048c0ba2581efd56aa829af582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8ab70d048c0ba2581efd56aa829af582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4d2066c4f9db2f7c6b6c4d28bb9ba74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4d2066c4f9db2f7c6b6c4d28bb9ba74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\79130179cb205d87479d9e98370ee3dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\79130179cb205d87479d9e98370ee3dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\66c13d438cccb37e122cbf0b429e3f6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\66c13d438cccb37e122cbf0b429e3f6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e4fd1dde5aba0b3cf940bf1eb5952f62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e4fd1dde5aba0b3cf940bf1eb5952f62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\152744bb6c60701bdb31f26c0d6cbdac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\152744bb6c60701bdb31f26c0d6cbdac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9c3f86a0a5ecf775e8c6fada658bf3a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9c3f86a0a5ecf775e8c6fada658bf3a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e89a3af851e93240c8e2ac29fe691e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e89a3af851e93240c8e2ac29fe691e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f4e8de03f31c67e233c5de5f93bfc2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f4e8de03f31c67e233c5de5f93bfc2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0b988605fb3953e2a0f58145cd9ce0c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0b988605fb3953e2a0f58145cd9ce0c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b79473ad551005f62030ca35c57a3731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b79473ad551005f62030ca35c57a3731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5417ad2573f625ca46750ad3adb1fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5417ad2573f625ca46750ad3adb1fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cdb9ac1be8f4ce91f0b5427f230263ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cdb9ac1be8f4ce91f0b5427f230263ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\da30094b4cb73b3b22611e4d44a7f486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\da30094b4cb73b3b22611e4d44a7f486\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4a221a0add9dc65522aa7225d09a0cbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4a221a0add9dc65522aa7225d09a0cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\67abb6ec4f9d243d37662bf0440cfc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\67abb6ec4f9d243d37662bf0440cfc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1f6524874ea3880f778c72bc527b4226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1f6524874ea3880f778c72bc527b4226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\673c932d550ac5890b1a36b294528747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\673c932d550ac5890b1a36b294528747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dff367c34e92705ec7e454845e8f35a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dff367c34e92705ec7e454845e8f35a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\117d77b78b0b4657e95555869ccb18d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\117d77b78b0b4657e95555869ccb18d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4ee7a4f79bac7d4a53678d92165b72fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4ee7a4f79bac7d4a53678d92165b72fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4ac02aaf2af56c0372a3e73a0e65b47c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4ac02aaf2af56c0372a3e73a0e65b47c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\95bd597388f6da302da7769ba0368401\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\95bd597388f6da302da7769ba0368401\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1d9dd879476fa2bc1c12e8e1194ae72e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1d9dd879476fa2bc1c12e8e1194ae72e\AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\8bf192ae5b12b75984c050cc48954fce\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\widgets-release.aar\8bf192ae5b12b75984c050cc48954fce\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b79473ad551005f62030ca35c57a3731\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b79473ad551005f62030ca35c57a3731\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5417ad2573f625ca46750ad3adb1fbe\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5417ad2573f625ca46750ad3adb1fbe\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Frenzy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b79473ad551005f62030ca35c57a3731\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\Frenzy\Desktop\evolved\frenzy-mobile-app\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
