@@ -231,6 +231,7 @@ attr fastScrollHorizontalThumbDrawable
 attr fastScrollHorizontalTrackDrawable
 attr fastScrollVerticalThumbDrawable
 attr fastScrollVerticalTrackDrawable
+attr fillViewport
 attr firstBaselineToTopHeight
 attr floatingActionButtonStyle
 attr font
@@ -353,6 +354,7 @@ attr progressBarPadding
 attr progressBarStyle
 attr queryBackground
 attr queryHint
+attr radScrollViewStyle
 attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
@@ -362,6 +364,7 @@ attr rippleColor
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
+attr scrollMode
 attr searchHintIcon
 attr searchIcon
 attr searchViewStyle
@@ -951,6 +954,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable hamburger
+drawable hmb
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
@@ -1008,6 +1013,7 @@ id async
 id auto
 id beginning
 id blocking
+id both
 id bottom
 id btnCopyException
 id btnCopyLogcat
@@ -1053,10 +1059,12 @@ id ghost_view
 id group_divider
 id home
 id homeAsUp
+id horizontal
 id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id info
 id italic
 id item_touch_helper_previous_elevation
@@ -1078,6 +1086,8 @@ id mini
 id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
+id navItemsLayout
+id navigationItemText
 id navigation_header_container
 id never
 id none
@@ -1169,6 +1179,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id vertical
 id view_offset_helper
 id visible
 id withText
@@ -1234,11 +1245,14 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout drawer_blur_fade_layer
 layout error_activity
 layout exception_tab
 layout logcat_tab
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
+layout navigation_drawer_content
+layout navigation_item_view
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1532,6 +1546,8 @@ style Platform_V21_AppCompat_Light
 style Platform_V25_AppCompat
 style Platform_V25_AppCompat_Light
 style Platform_Widget_AppCompat_Spinner
+style RadScrollViewStyle
+style RadScrollViewTheme
 style RtlOverlay_DialogWindowTitle_AppCompat
 style RtlOverlay_Widget_AppCompat_ActionBar_TitleItem
 style RtlOverlay_Widget_AppCompat_DialogTitle_Icon
@@ -1876,6 +1892,8 @@ styleable MenuView android_windowAnimationStyle android_itemTextAppearance andro
 styleable NavigationView android_background android_fitsSystemWindows android_maxWidth elevation headerLayout itemBackground itemHorizontalPadding itemIconPadding itemIconTint itemTextAppearance itemTextColor menu
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
+styleable RadScrollView fillViewport scrollMode
+styleable RadScrollViewTheme radScrollViewStyle
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
 styleable RecyclerView android_orientation android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
 styleable ScrimInsetsFrameLayout insetForeground

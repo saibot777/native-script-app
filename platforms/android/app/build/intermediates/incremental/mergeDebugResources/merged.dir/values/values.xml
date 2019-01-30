@@ -1449,6 +1449,13 @@
         <!-- State identifier indicating the popup will be above the anchor. -->
         <attr format="boolean" name="state_above_anchor"/>
     </declare-styleable>
+    <declare-styleable name="RadScrollView"><attr format="boolean" name="fillViewport"/><attr name="scrollMode">
+            <flag name="none" value="0"/>
+            <flag name="vertical" value="1"/>
+            <flag name="horizontal" value="2"/>
+            <flag name="both" value="3"/>
+        </attr></declare-styleable>
+    <declare-styleable name="RadScrollViewTheme"><attr format="reference" name="radScrollViewStyle"/></declare-styleable>
     <declare-styleable name="RecycleListView">
         <!-- Bottom padding to use when no buttons are present. -->
         <attr format="dimension" name="paddingBottomNoButtons"/>
@@ -2123,7 +2130,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">frenzynativescript</string>
+    <string name="app_name">frenzymobileapp</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
@@ -2139,7 +2146,7 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="title_activity_kimera">frenzynativescript</string>
+    <string name="title_activity_kimera">frenzymobileapp</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -3751,6 +3758,13 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Holo.Spinner"/>
+    <style name="RadScrollViewStyle">
+        <item name="fillViewport">false</item>
+        <item name="scrollMode">vertical</item>
+    </style>
+    <style name="RadScrollViewTheme">
+        <item name="radScrollViewStyle">@style/RadScrollViewStyle</item>
+    </style>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
